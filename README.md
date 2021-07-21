@@ -4,7 +4,7 @@ Application for Managing, Updating, Generating unique password(combo of characte
 </br>
 
 <span>
-<img src="https://github.com/jaynarayan94/Password_Manager/blob/main/Password_manager.gif" width=700px height="500px" />
+<img src="https://github.com/jaynarayan94/Password_Manager/blob/main/Password_manager.gif" width=500px height="450px" />
 </span>
 
 ### Dependencies Tools/Libraries
